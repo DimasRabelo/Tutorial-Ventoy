@@ -15,7 +15,7 @@
   
     .banner {
     width: 100%; 
-    top: 65px;
+    top: 100px;
     
     
 }
@@ -48,8 +48,8 @@ section{
 }
 .slick-dots li button:before {
     font-size: 25px;
-    color: #eeece7;
-    top: 70px;
+    color: #413f3a;
+    top: 33px;
 }
 
 .slick-dots li.slick-active button:before {
